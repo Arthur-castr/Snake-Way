@@ -1,0 +1,31 @@
+🎯 Prompts Utilizados (ChatGPT & Gemini Pro)
+
+Durante o desenvolvimento deste e-book, diversos prompts foram utilizados para guiar o conteúdo, estilo e estrutura. Abaixo estão listados os principais:
+
+🔹 Geração de Título
+
+- **Prompt 1:**  
+  `"Crie um título de um ebook. Tema: 'aprendizado de Python para desenvolvimento da lógica computacional e suas aplicações'. Nicho de programação, específico Python. Deve ser um título curto e épico, além de um perfil mais nerd. Referência de jogos famosos com cobras no título pode ser interessante."`
+
+Prompt 2:
+  `"Python Saga: Da Lógica ao Poder" + "Snake Code: Domine a Lógica com Python" — misture os dois e crie um novo título.`
+
+Prompt 3:
+  `"Poderia ter referência a Dragon Ball e o Caminho da Serpente."`
+
+
+
+✨ Diretrizes e Criação do Projeto
+
+- `"Quero seguir a mesma linha de anime, podendo cada capítulo ser uma parte da serpente..."`
+- `"Desenvolva um fundo para as páginas baseado na capa."`
+- `"Ajude a organizar essas ideias com base no que já fizemos."`
+- `"Resumo das ferramentas e instruções para criar e-book interativo."`
+- `"Vamos escrever o prefácio, capítulo 0, capítulo 1..."`
+- `"Use frases motivacionais do Goku e outros personagens para os finais dos capítulos."`
+- `"Cada exercício terá número para facilitar o gabarito no apêndice."`
+- `"Vamos para o capítulo 2..."`
+- `"Refaça o sumário com melhor visual."`
+- `"Agora, o apêndice com as resoluções dos exercícios."`
+
+Total: Aproximadamente 30+ prompts utilizados ao longo da criação do projeto.
